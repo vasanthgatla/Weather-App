@@ -71,11 +71,11 @@ weather-app/
 
 ## 🖼️ Screenshots
 
-**HomeScreen**:
+1. **HomeScreen**:
 
 ![image](https://github.com/user-attachments/assets/d08e579f-ac08-448f-aa45-516d335de835)
 
-**Enter city name**:
+2. **Enter city name**:
 ![image](https://github.com/user-attachments/assets/c8d82e9b-608e-42ce-9987-48a778df04c4)
 
 ---
