@@ -81,7 +81,7 @@ weather-app/
 ---
 
 ## 🌐 Live Demo
-```bash
+
 https://vg-weather-app.netlify.app/
-```
+
 
